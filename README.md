@@ -1,2 +1,4 @@
-# Employee retention machine learning-model
+# Employee retention machine learning model
 Deliverable: HR employee retention/churn machine learning classification model using dataset of past employees and their status (still employed or already left). Deliverable also includes executable model script.
+
+The following research and analysis is the result of exercises that I completed from [EliteDataScience](https://elitedatascience.com/machine-learning-masterclass).
